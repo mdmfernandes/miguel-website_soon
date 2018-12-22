@@ -1,0 +1,21 @@
+{
+  "name": "miguel-website",
+  "version": "1.0.0",
+  "description": "Miguel Fernandes Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "echo \"Running SASS script...\" && node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmfernandes/miguel-website.git"
+  },
+  "author": "Miguel Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdmfernandes/miguel-website/issues"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
