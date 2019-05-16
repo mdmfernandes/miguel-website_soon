@@ -16,6 +16,6 @@
     "url": "https://github.com/mdmfernandes/miguel-website/issues"
   },
   "devDependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.12.0"
   }
 }
